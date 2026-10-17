@@ -1,0 +1,33 @@
+:root {
+  font-family: 'Aptos', 'Segoe UI', sans-serif;
+  color: #4c5a70;
+  background: #f3f6fa;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:focus-visible {
+  outline: 2px solid #3568dc;
+  outline-offset: 2px;
+}
+
+#root {
+  min-height: 100vh;
+}
