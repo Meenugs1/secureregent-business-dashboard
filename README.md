@@ -66,7 +66,11 @@ The dashboard compares the selected period with the preceding period of the same
 
 The repository currently contains `dashboard-reference.png`. If this image represents the current running application, it can be displayed here:
 
-![SecureRegent dashboard preview](./dashboard-reference.png)
+
+## Dashboard Preview
+
+![SecureRegent Business Performance Dashboard](./dashboard-reference.png)
+
 
 If it is only a design reference, replace it with a fresh screenshot of the live application before using it as a project screenshot.
 
