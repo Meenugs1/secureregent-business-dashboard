@@ -69,7 +69,7 @@ The repository currently contains `dashboard-reference.png`. If this image repre
 
 ## Dashboard Preview
 
-!![SecureRegent Business Performance Dashboard](./image.png)
+![SecureRegent Business Performance Dashboard](./image.png)
 
 
 If it is only a design reference, replace it with a fresh screenshot of the live application before using it as a project screenshot.
@@ -126,15 +126,13 @@ npm run lint
 
 ## Project Structure
 
-
-## Project Structure
-
 ```text
 secureregent-business-dashboard/
 ├── public/
 ├── src/
 ├── .gitignore
 ├── README.md
+├── image.png
 ├── index.html
 ├── package.json
 ├── package-lock.json
