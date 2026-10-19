@@ -122,25 +122,21 @@ npm run lint
 
 ## Project Structure
 
+
+## Project Structure
+
 ```text
 secureregent-business-dashboard/
-├── public/                  # Public static assets
+├── public/
 ├── src/
-│   ├── data/
-│   │   └── businessData.js  # Centralized dummy business dataset
-│   ├── utils/
-│   │   └── csv.js           # CSV download utility
-│   ├── App.jsx              # Dashboard UI, metrics and interactions
-│   ├── App.css              # Dashboard component styling
-│   ├── index.css            # Global styles
-│   └── main.jsx             # Application entry point
 ├── .gitignore
-├── dashboard-reference.png
+├── README.md
 ├── index.html
 ├── package.json
 ├── package-lock.json
 └── vite.config.js
 ```
+
 
 ## Data & Limitations
 
